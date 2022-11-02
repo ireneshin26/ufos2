@@ -22,13 +22,10 @@ Below is an example of one filtering scenaria for:
 ![examplefilter](https://user-images.githubusercontent.com/110875578/199590465-ed6c0919-1319-4311-a61f-99a8226a0a3b.png)
 
 
-
 ## **Summary:**
-**Drawbacks:** The filter fields are great but it would be better if it was a drop down list of the options that were available to ensure that the user is selecting from the avaialble data points.
+**Drawbacks:** One drawback of this webpage is that it is unclear whether the table is dynamically updated and users may be looking for a button to cick to filter. 
 
 **Additional Recommendations:** 
 * Have a way to be able to select multiple criteria in the filter fields
 * Create multiple pages for the entry results by grouping by 25 results at a time.
 * Have a way to sort the data by the header row titles in ascending or descending order.
-
-Your written analysis has great structure and formatting. The purpose is well defined. You did not go into detail about how to conduct a search on your webpage. You were not able to identify a drawback of the webpage. You made a recommendation instead of stating a drawback. You made two additional recommendations. 
